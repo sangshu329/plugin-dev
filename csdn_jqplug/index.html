@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>3种不同切换效果的jquery焦点图_大头网</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/style.css"/>
+
+    <!--Luara样式文件-->
+    <!--渐隐样式-->
+    <link rel="stylesheet" href="css/luara.css"/>
+    <!--左滑样式-->
+    <link rel="stylesheet" href="css/luara.left.css"/>
+    <!--上滑样式-->
+    <link rel="stylesheet" href="css/luara.top.css"/>
+
+</head>
+<body>
+    <script src="js/jquery-1.8.3.min.js"></script>
+    <!--Luara js文件-->
+    <script src="js/jquery.luara.0.0.1.min.js"></script>
+
+    <h5>渐隐</h5>
+    <hr/>
+    <!--Luara图片切换骨架begin-->
+    <div class="example">
+        <ul>
+            <li><img src="images/1.jpg" alt="1"/></li>
+            <li><img src="images/2.jpg" alt="2"/></li>
+            <li><img src="images/3.jpg" alt="3"/></li>
+            <li><img src="images/4.jpg" alt="4"/></li>
+        </ul>
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </div>
+    <!--Luara图片切换骨架end-->
+    <script>
+    $(function(){
+        <!--调用Luara示例-->
+        $(".example").luara({width:"500",height:"334",interval:4000,selected:"seleted"});
+
+    });
+    </script>
+
+    <h5>上滑</h5>
+    <hr/>
+    <!--Luara图片切换骨架begin-->
+    <div class="example1">
+        <ul>
+            <li><img src="images/1.jpg" alt="1"/></li>
+            <li><img src="images/2.jpg" alt="2"/></li>
+            <li><img src="images/3.jpg" alt="3"/></li>
+            <li><img src="images/4.jpg" alt="4"/></li>
+        </ul>
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </div>
+    <!--Luara图片切换骨架end-->
+    <script>
+        $(function(){
+            <!--调用Luara示例-->
+            $(".example1").luara({width:"500",height:"334",interval:5000,selected:"seleted",deriction:"top"});
+
+        });
+    </script>
+
+
+    <h5>左滑</h5>
+    <hr/>
+    <!--Luara图片切换骨架begin-->
+    <div class="example2">
+        <ul>
+            <li><img src="images/1.jpg" alt="1"/></li>
+            <li><img src="images/2.jpg" alt="2"/></li>
+            <li><img src="images/3.jpg" alt="3"/></li>
+            <li><img src="images/4.jpg" alt="4"/></li>
+        </ul>
+        <ol>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ol>
+    </div>
+    <!--Luara图片切换骨架end-->
+    <script>
+        $(function(){
+            <!--调用Luara示例-->
+            $(".example2").luara({width:"500",height:"334",interval:4500,selected:"seleted",deriction:"left"});
+
+        });
+    </script>
+
+<div style="text-align:center;margin:50px 0; font:normal 14px/24px 'MicroSoft YaHei';">
+<p>来源：<a href="http://www.datouwang.com/" target="_blank">大头网</a></p>
+<p>转载请注明出处，此代码仅供学习交流，请勿用于商业用途。</p>
+<p><script src="http://www.datouwang.com/img/js/demo_ad.js"></script><center style="display:none"><script src="http://www.datouwang.com/img/js/demo_tj.js"></script></center></p>
+</div>
+
+</body>
+</html>
