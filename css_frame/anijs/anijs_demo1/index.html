@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>CodePen - AniJS TabBar Quick Start</title>
+
+  <link rel='stylesheet prefetch' href='http://netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.css'>
+
+    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+
+</head>
+
+<body>
+
+  <title>AniJS TabBar</title>
+<head>
+    <link rel="stylesheet" href="http://anijs.github.io/lib/animationcss/animate.css" />
+
+</head>
+<body>
+
+  <!-- The example -->
+  <div class="container center">
+    <div class="tab-bar demo">
+      <h2 class="tab">Dribbble</h2>
+      <p><i class="fa fa-dribbble tada animated"></i></p>
+      <h2 class="tab active">Behance</h2>
+      <p><i class="fa fa-behance bounce animated"></i></p>
+      <h2 class="tab">Pinterest</h2>
+      <p><i class="fa fa-pinterest rollIn animated"></i></p>
+
+      <!-- The AniJS definition -->
+      <input type="hidden" 
+           data-anijs="if: mouseover, on: .tab, do: $removeClass active, to: .tab.active;
+                       if: mouseover, on: .tab, do: $addClass active, to: target"
+      >
+      <!-- end AniJS definition -->
+    </div>  
+  </div>
+  <!-- End example -->
+
+<script src="http://anijs.github.io/lib/anijs/anijs.js"></script>
+<script src="http://anijs.github.io/lib/anijs/helpers/dom/anijs-helper-dom.js"></script>
+ </body>
+
+</body>
+
+</html>

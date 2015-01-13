@@ -1,0 +1,62 @@
+/*The CSS example*/
+.active{
+	border:solid 1px #ddd;
+	border-bottom: none;
+	z-index: 2;
+	background: white;
+}
+
+.tab-bar p{
+	border-top: solid 1px #ddd;
+	margin: 0px;
+	margin-top: -1px;
+	font-size: 170%;
+  padding: 40px 20px;
+	display: none;
+	position: absolute;
+  width: 100%;
+}
+
+.tab-bar{
+	height: 100px;
+  color: #7f8c8d;
+}
+
+.tab-bar h2{
+	padding: 8px 15px;
+	font-size: 100%;
+	font-weight: 100;
+	cursor: pointer;
+	display: inline-block;
+	margin: 0px;
+	position: relative;
+}
+
+.tab-bar h2:hover{
+	background: #eee;
+	cursor: pointer;
+}
+
+.active + p {
+  display: block;
+}
+/*End CSS example*/
+
+/*Other CSS*/
+body{
+  font-family: helvetica;
+  font-size: 1.2em;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  position:relative;
+  width: 40%;
+}
+
+.container{ 
+   margin-top: 50px; 
+}
+
