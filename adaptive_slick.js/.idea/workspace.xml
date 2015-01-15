@@ -25,33 +25,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="dianhuo_hycenter.php" pinned="false" current-in-tab="true">
+        <entry file="file://D:/AppServ/www/sex/dianhuo_hycenter.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5576208" vertical-offset="525" max-vertical-offset="15000">
-              <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/scripts.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="4075">
-              <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slick.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slick/slick.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
-              <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.4337051" vertical-offset="375" max-vertical-offset="2025">
+              <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hycen_edit.php" pinned="false" current-in-tab="false">
+        <entry file="file://D:/AppServ/www/sex/hycen_edit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="675">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding>
+                <marker date="1421306915031" expanded="true" signature="178:242" placeholder="select passw.._db_prefixclient where..." />
+                <marker date="1421306915031" expanded="true" signature="178:248" placeholder="select passw.._db_prefixclient where..." />
               </folding>
             </state>
           </provider>
@@ -69,14 +62,27 @@
       <list>
         <option value="$PROJECT_DIR$/slick/slick.js" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="D:/AppServ/www/sex/jxs_edit.php" />
+        <option value="D:/AppServ/www/sex/hycen_eidt.php" />
+        <option value="D:/AppServ/www/sex/include/Mysql.class.php" />
+        <option value="D:/AppServ/www/sex/head.php" />
+        <option value="D:/AppServ/www/sex/hycen_edit.php" />
+        <option value="D:/AppServ/www/sex/dianhuo_nav.php" />
+        <option value="D:/AppServ/www/sex/css/bootstrap.css" />
+        <option value="D:/AppServ/www/sex/dianhuo_hycenter.php" />
       </list>
     </option>
   </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="192.168.0.157" name="localhost" />
+    </servers>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="484" />
-    <option name="y" value="51" />
-    <option name="width" value="1283" />
+    <option name="x" value="362" />
+    <option name="y" value="25" />
+    <option name="width" value="1475" />
     <option name="height" value="991" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -126,6 +132,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="adaptive_slick.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -136,11 +146,25 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="adaptive_slick.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sex" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="admin" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adaptive_slick.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="adaptive_slick.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -154,10 +178,22 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="D:/AppServ/www/sex" />
+    <property name="recentsLimit" value="5" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="LayoutCode.rearrangeEntriesPHP" value="false" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.dianhuo_hycenter.php">
+    <configuration default="false" name="dianhuo_hycenter.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" engineId="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" uri="http://localhost:63343/adaptive_slick.js/dianhuo_hycenter.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -174,9 +210,21 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-env-vars>false</pass-parent-env-vars>
+      <envs />
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dianhuo_hycenter.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.dianhuo_hycenter.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -192,16 +240,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="484" y="51" width="1283" height="991" extended-state="0" />
+    <frame x="362" y="25" width="1475" height="991" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940805" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15901302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -210,11 +260,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -238,39 +286,98 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://D:/AppServ/www/sex/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="14225">
+          <caret line="47" column="27" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
+          <folding>
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadv where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixinpage where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixpages where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="20675">
+          <caret line="50" column="103" selection-start-line="50" selection-start-column="103" selection-end-line="50" selection-end-column="103" />
+          <folding>
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro..db_prefixconfig..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro..db_prefixconfig..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefiximgstype  order..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/nxxy_dpgl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="3625">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="49" />
+          <folding>
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select title.._db_prefixnxxytype where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select media.._db_prefixadv where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select ad_co.._db_prefixadv where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixnxxy where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixnxxy where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_spfx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="2400">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select title.._db_prefixspzxtype where..." />
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixspzx where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_hycenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="2725">
+          <caret line="60" column="60" selection-start-line="60" selection-start-column="56" selection-end-line="60" selection-end-column="60" />
+          <folding>
+            <marker date="1421307097905" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixclient where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="14260" max-vertical-offset="15000">
-          <caret line="587" column="52" selection-start-line="587" selection-start-column="52" selection-end-line="587" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4075">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15000">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slick/slick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
-          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/slick/slick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
-          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -278,15 +385,234 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="4075">
           <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5576208" vertical-offset="525" max-vertical-offset="15000">
-          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="14260" max-vertical-offset="15000">
+          <caret line="587" column="52" selection-start-line="587" selection-start-column="52" selection-end-line="587" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4075">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1092" max-vertical-offset="41825">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="900" max-vertical-offset="4075">
+          <caret line="60" column="24" selection-start-line="60" selection-start-column="24" selection-end-line="60" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3011153" vertical-offset="0" max-vertical-offset="15000">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/admin/database_backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/jxs_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58859974" vertical-offset="150" max-vertical-offset="1625">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/bk/vc_ppsp_con_bk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2788104" vertical-offset="0" max-vertical-offset="4825">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/css/dianhuo_cpxh.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33293697" vertical-offset="3620" max-vertical-offset="5750">
+          <caret line="156" column="0" selection-start-line="156" selection-start-column="0" selection-end-line="156" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/admin/ab_csrj.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.19157088" vertical-offset="150" max-vertical-offset="4100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1408591156000" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixpages where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/include/Mysql.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6526181" vertical-offset="914" max-vertical-offset="9375">
+          <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
+          <folding>
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="SELECT min(:..table_name..." />
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="SELECT max(:..table_name..." />
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..table_name..." />
+            <marker date="1421306679124" expanded="true" signature="-1:-1" placeholder="SELECT SUM(:..table_name..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/admin/adminEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.54278415" vertical-offset="1350" max-vertical-offset="5550">
+          <caret line="71" column="51" selection-start-line="71" selection-start-column="51" selection-end-line="71" selection-end-column="51" />
+          <folding>
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="SELECT admin.._db_prefixadmin WHERE..." />
+            <marker date="1415849774941" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadmin where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/head.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5108557" vertical-offset="600" max-vertical-offset="20675">
+          <caret line="40" column="96" selection-start-line="40" selection-start-column="96" selection-end-line="40" selection-end-column="96" />
+          <folding>
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro..db_prefixconfig..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro..db_prefixconfig..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefiximgstype  order..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+            <marker date="1421306813310" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixindex_pic where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/admin/advClsEdit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61957866" vertical-offset="0" max-vertical-offset="2650">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <marker date="1404175688000" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvtype where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7657993" vertical-offset="0" max-vertical-offset="2725">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+          <folding>
+            <marker date="1421307097905" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixclient where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_spfx.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96034694" vertical-offset="0" max-vertical-offset="2400">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select title.._db_prefixspzxtype where..." />
+            <marker date="1413194225281" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixspzx where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/nxxy_dpgl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09293681" vertical-offset="0" max-vertical-offset="3625">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select title.._db_prefixnxxytype where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select media.._db_prefixadv where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select ad_co.._db_prefixadv where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixnxxy where..." />
+            <marker date="1412043233182" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixnxxy where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06195787" vertical-offset="0" max-vertical-offset="14225">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="71" />
+          <folding>
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixseo where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadv where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixinpage where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixadvert where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixzxdt where..." />
+            <marker date="1413367295458" expanded="true" signature="-1:-1" placeholder="select * fro.._db_prefixpages where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/hycen_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.088235" vertical-offset="0" max-vertical-offset="675">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <marker date="1421306915031" expanded="true" signature="178:242" placeholder="select passw.._db_prefixclient where..." />
+            <marker date="1421306915031" expanded="true" signature="178:248" placeholder="select passw.._db_prefixclient where..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/AppServ/www/sex/dianhuo_hycenter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4337051" vertical-offset="375" max-vertical-offset="2025">
+          <caret line="29" column="36" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <title>Spin进度条演示</title>
+  
+  <script src="http://libs.baidu.com/jquery/1.10.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="spin.js"></script>
+  <script src="jquery.spin.js"></script>
+  <style type="text/css">
+	#loading {
+	  background: #aaa;
+	  width: 220px;
+	  height: 220px;
+	  color: black;
+	  float: left;
+	  border-radius: 10px;
+	}
+  </style>
+</head>
+<body>
+  <div id="loading"></div>
+  
+  <script>
+	var opts={
+		lines:11,
+		length: 29,
+		width: 10,
+		radius: 30,
+		corners: 1,
+		rotate: 0,
+		color: '#F72671',
+		speed: 1,
+		trail: 60,
+		shadow: false
+	};
+
+	$("#loading").spin(opts);
+	window.onload = function(){
+//        $("#loading").spin(false);
+    };
+  </script>
+</body>
+</html>
